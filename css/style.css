@@ -103,7 +103,7 @@ body{
 }
 .menu-item:hover{
     position: relative;
-    padding-bottom: 20px;
+    padding-bottom: 21px;
     border-bottom: 5px solid #0099ff;
     color: #9f9f9f;
 }
@@ -405,6 +405,9 @@ body{
     margin-top: 13px;
     cursor: pointer;
 }
+.block-item__text-link:hover{
+    color: #c8232c;
+}
 .block-item__text-links{
     font-size: 12px;
     color: #0099ff;
@@ -413,7 +416,9 @@ body{
     margin-top: 8px;
     padding-bottom: 8px;
 }
-
+.block-item__text-links:hover{
+    color: #c8232c;
+}
 
 
 .post-title-color{
@@ -437,6 +442,9 @@ body{
     color: #0099ff;
     cursor: pointer;
     margin-left: 156px;
+}
+.post-title__text-link:hover{
+    color: #c8232c;
 }
 .block-text-otstup{
     margin-top: 11px;
