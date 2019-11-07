@@ -80,8 +80,6 @@ body{
 }
 
 
-
-
 .header{
     display: grid;
     grid-template-columns: 860px 70px 31px;
@@ -127,9 +125,6 @@ body{
 .plus-position{
     margin-top: 10px;
 }
-
-
-
 
 
 .search-form{
@@ -190,11 +185,6 @@ body{
 }
 
 
-
-
-
-
-
 .slider{
     grid-area: slider;
     width: 1000px;
@@ -248,14 +238,6 @@ body{
 }
 
 
-
-
-
-
-
-
-
-
 .gallery{
     grid-area: gallery;
     padding: 0 20px;
@@ -296,9 +278,6 @@ body{
     font-size: 13px;
     color: #666666;
 }
-
-
-
 
 
 .contacts__form{
@@ -346,11 +325,6 @@ body{
     cursor: pointer;
     transition: 0.9s;
 }
-
-
-
-
-
 
 
 .footer{
@@ -489,10 +463,6 @@ body{
     border: 1px solid #0099ff;
     transition: 0.9s;
 }
-
-
-
-
 .container__Copiright{
     margin: 0 20px;
     display: grid;
